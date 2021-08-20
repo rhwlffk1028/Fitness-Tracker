@@ -1,5 +1,5 @@
 # Fitness-Tracker
-Deployed Link: [Here](kc-fitness-tracker.herokuapp.com/)
+Deployed Link: https://kc-fitness-tracker.herokuapp.com
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
